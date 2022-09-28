@@ -1,5 +1,7 @@
 # Mark8 Animal Emoji Interpreter
 
+I struggle with understanding the animal emojis. Do you too? If yes, then see this library of animal emojis with meaning (name).
+
 [Live link](https://neog-animal-emoji-interpreter.vercel.app/)
 
 ## Tech Used: 
