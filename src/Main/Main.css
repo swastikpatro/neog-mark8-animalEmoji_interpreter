@@ -1,0 +1,5 @@
+main {
+  min-height: calc(100vh - 10rem);
+  /* border: 2px solid red; */
+  margin: 1rem auto;
+}

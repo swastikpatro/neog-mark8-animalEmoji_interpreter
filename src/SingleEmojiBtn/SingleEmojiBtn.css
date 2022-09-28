@@ -1,0 +1,21 @@
+.emojiBtn {
+  font-size: 1.3rem;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.emojiBtn:hover {
+  transform: scale(1.25);
+}
+
+@media screen and (min-width: 576px) {
+  .emojiBtn {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 680px) {
+  .emojiBtn {
+    font-size: 2rem;
+  }
+}

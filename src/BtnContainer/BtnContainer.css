@@ -1,0 +1,11 @@
+.btncontainer {
+  background: transparent;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-items: center;
+  gap: 1.5rem;
+  width: 80vw;
+  max-width: 500px;
+  margin: 3rem auto;
+  /* border: 2px solid #222; */
+}
