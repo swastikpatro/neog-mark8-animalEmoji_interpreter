@@ -15,3 +15,8 @@ I struggle with understanding the animal emojis. Do you too? If yes, then see th
 1. If you type the animal emoji in the input, if the emoji is in our database, it gives the output with the name of that animal, otherwise displays a message of "failed to recognize".
 1. Clicking on the clear button, clears out both the input and output.
 1. **(Additional feature)** If your input includes whitespaces before or after the emoji, the app translates the animal emoji and shows the name.
+
+
+## Snapshot of the app
+
+![Animal Emoji interpreter](./animal-emoji-snap.JPG)
